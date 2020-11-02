@@ -1,14 +1,29 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+ {
+  "id_utilisateur": "Abdeladim",
+  "id_chantier": "CHAN1",
+  "id_systeme": "2020-09-22 18:17:00",
+  "cin_employe": "BK518636",
+  "date_entree": "2020-09-22 09:05:00",
+  "date_sortie": "2020-09-22 18:17:00",
+  "nbre_heures": "9h12min",
+ },
+ {
+  "id_utilisateur": "User2",
+  "id_chantier": "CHAN1",
+  "id_systeme": "2020-09-22 18:00:00",
+  "cin_employe": "BK518147",
+  "date_entree": "2020-09-22 09:00:70",
+  "date_sortie": "2020-09-22 18:00:00",
+  "nbre_heures": "9h00min",
+ },
+  {
+  "id_utilisateur": "User1",
+  "id_chantier": "CHAN2",
+  "id_systeme": "2020-09-23 16:17:06",
+  "cin_employe": "BK518658",
+  "date_entree": "2020-09-22 09:00:00",
+  "date_sortie": "2020-09-22 16:17:06",
+  "nbre_heures": "7h17min",
+ },
+]
