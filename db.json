@@ -1,5 +1,4 @@
-{
- [
+[
  {
   "id_utilisateur": "Abdeladim",
   "id_chantier": "CHAN1",
@@ -28,4 +27,3 @@
   "nbre_heures": "7h17min"
  }
 ]
-}
