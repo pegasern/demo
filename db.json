@@ -1,4 +1,5 @@
-[
+{ 
+ [
    {
     "id_utilisateur": "Abdeladim",
     "id_chantier": "CHAN1",
@@ -26,4 +27,5 @@
     "date_sortie": "2020-09-22 16:17:06",
     "nbre_heures": "7h17min"
    }
-]
+ ]
+}
